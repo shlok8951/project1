@@ -1,0 +1,30 @@
+.colorchang{
+    text-align: center;
+}
+.butten{ 
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 30px;
+  
+}
+#blue{
+    background-color: blue;
+    margin-left: 450px;
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#orange{
+    background-color: orange;
+}
+h2{
+    text-align: center;
+    margin-top: 60px;
+    
+}
